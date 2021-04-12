@@ -23,7 +23,7 @@ List of awesome wren projects
 
 
 ### IDEs and Plugins
-- [✨vscode-wren](https://marketplace.visualstudio.com/items?itemName=nelarius.vscode-wren) - Syntax highlighting and snippets for the Wren programming language.
+- [✨ vscode-wren](https://marketplace.visualstudio.com/items?itemName=nelarius.vscode-wren) - Syntax highlighting and snippets for the Wren programming language.
 
 
 ### OS Util
@@ -31,7 +31,7 @@ List of awesome wren projects
 
 
 ### GameDev 🎮 
-- [✨dome](https://github.com/domeengine/dome) - A lightweight game development environment where games can be written in Wren.
+- [✨ dome](https://github.com/domeengine/dome) - A lightweight game development environment where games can be written in Wren.
 
 
 ### Log

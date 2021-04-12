@@ -1,7 +1,7 @@
 # awesome-wren [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 List of awesome wren projects
 
-### Implementations, Interpreters, and Bindings
+### Implementations, Interpreters
 - [wren cli](https://github.com/wren-lang/wren-cli/releases) - The Wren Command-Line Interface is a tool you can run which gives you a way to run Wren code, and also includes modules for talking to the operating system—file IO, networking, stuff like that. It depends on libuv for that functionality.
 - [wren Repo](https://github.com/wren-lang/wren) - The official wren repo.
 

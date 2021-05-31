@@ -32,6 +32,7 @@ List of awesome wren projects
 
 ### GameDev 🎮 
 - [✨ dome](https://github.com/domeengine/dome) - A lightweight game development environment where games can be written in Wren.
+- [raylib-wren](https://github.com/TSnake41/raylib-wren) - Wren binding for raylib, a simple and easy-to-use library to learn videogames programming.
 
 
 ### Log
